@@ -16,17 +16,17 @@ const heroSocialLinks = [
 const showcaseData = [
   {
     title: '2O24  <br />Valleys of Koraput',
-    imgUrl: '/images/slider_5.jpeg',
+    imgUrl: '/images/v3nu5/slider_1.webp',
     href: '/Gallery2024',
   },
   {
     title: '2025 <br />Riding The Himalayas',
-    imgUrl: '/images/slider_6.jpeg',
+    imgUrl: '/images/v3nu5/slider_2.webp',
     href: '/Gallery2025',
   },
   {
     title: '2026 <br />The Northern Escape',
-    imgUrl: '/images/slider_7.jpeg',
+    imgUrl: '/images/v3nu5/slider_3.webp',
     href: '/Gallery2026',
   },
   

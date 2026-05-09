@@ -65,7 +65,7 @@ export default function MasonryGallery() {
   try {
 
     let url =
-      `http://localhost:5000/gallery/2024?category=${active}`;
+      `https://v3nu5-gallery-api.onrender.com/gallery/2024?category=${active}`;
 
     if (nextCursor && !reset) {
       url += `&cursor=${nextCursor}`;
